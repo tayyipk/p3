@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tayyipk.github.io/sitemap-index.xml
